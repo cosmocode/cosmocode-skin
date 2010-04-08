@@ -4,12 +4,10 @@
   <artifactId>cosmocode-skin</artifactId>
   <version>1.1-SNAPSHOT</version>
   <packaging>jar</packaging>
-
-
   <name>CosmoCode Maven Skin</name>
   <parent>
-  	<artifactId>cosmocode-parent</artifactId>
-  	<groupId>de.cosmocode</groupId>
-  	<version>2.0.1</version>
+    <artifactId>cosmocode-parent</artifactId>
+    <groupId>de.cosmocode</groupId>
+    <version>2.0.2</version>
   </parent>
 </project>

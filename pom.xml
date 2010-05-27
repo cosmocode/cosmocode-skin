@@ -10,4 +10,7 @@
     <groupId>de.cosmocode</groupId>
     <version>2.3.0</version>
   </parent>
+    <scm>
+        <developerConnection>scm:svn:https://commons.svn.cosmocode.de/cosmocode-skin/trunk</developerConnection>
+    </scm>
 </project>

@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>de.cosmocode</groupId>
   <artifactId>cosmocode-skin</artifactId>
-  <version>1.2.0</version>
+  <version>1.3-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>CosmoCode Maven Skin</name>
   <parent>
@@ -11,7 +11,7 @@
     <version>2.4.0</version>
   </parent>
   <scm>
-    <developerConnection>scm:svn:https://commons.svn.cosmocode.de/cosmocode-skin/tags/1.2.0</developerConnection>
+    <developerConnection>scm:svn:https://commons.svn.cosmocode.de/cosmocode-skin/trunk</developerConnection>
   </scm>
   <repositories>
     <repository>
